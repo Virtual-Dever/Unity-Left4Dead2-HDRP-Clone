@@ -1,0 +1,4 @@
+repository "3DGameKit/LeftForDead2-Clone@14824@cloud"
+  path "/"
+    br "/main"
+    co "/main"
